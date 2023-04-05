@@ -3,16 +3,16 @@
 # Description
 The Prework Study Guide was created to help students entering the full-time coding bootcamp. This project was built to assist with organizing introductory content including HTML, CSS, Git, and JavaScript. Organizing this information will help entry level students become familiar with the new material.
 
-# Installation
-# N/A
-
-# Usage
-The Prework Study Guide is broken down into four sections: HTML, CSS, Git, and JavaScript. Each section includes notes relating to the respective section title. Users can open the DevTools Console with CTRL+SHIFT+I to prompt a recommended study topic.
-
-# Credits
+ Installation
  N/A
 
-# License
+ Usage
+The Prework Study Guide is broken down into four sections: HTML, CSS, Git, and JavaScript. Each section includes notes relating to the respective section title. Users can open the DevTools Console with CTRL+SHIFT+I to prompt a recommended study topic.
+
+ Credits
+ N/A
+
+ License
  MIT License
 
  Copyright (c) 2023 Joseph
