@@ -1,0 +1,14 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": ".."
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "prework-study-guide",
+    "liveServer.settings.port": 5502
+  }
+}
